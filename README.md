@@ -1,2 +1,2 @@
 # TheChallengeForIkas
-The challenge for Ikas
+The challenge deploy link : http://challengeforikas.surge.sh/
